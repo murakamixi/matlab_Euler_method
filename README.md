@@ -1,0 +1,2 @@
+# matlab_Euler_method
+オイラー法による微分方程式の解法をmatlabで実装したリポジトリになります。
